@@ -1,6 +1,6 @@
 # Discord-Wedding-Bot
 Allows users to marry each other. Uses drop down select boxes and easy to use.
-This was created in Python. You will need to have the Python & relevent modules installed.
+You will need to have the Python & relevent modules installed.
 
 # Use the command !marry followed by the users name
 ![alt text](https://i.imgur.com/p5Spr4U.png)
