@@ -4,9 +4,6 @@ You will need to have the Python & relevent modules installed.
 
 # My Discord https://discord.gg/wZU2MA8nSw
 
-
-# My Discord https://discord.gg/wZU2MA8nSw
-
 # Use the command !marry followed by the users name
 ![alt text](https://i.imgur.com/p5Spr4U.png)
 
